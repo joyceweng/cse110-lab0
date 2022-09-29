@@ -1,2 +1,3 @@
 # cse110-lab0
-[My User Page](https://joyceweng.github.io/)
+[Link to My User Page](https://joyceweng.github.io/)
+[Link to User Page Repo](https://github.com/joyceweng/joyceweng.github.io)
